@@ -18,3 +18,13 @@ These considerations alone are able to explain the great race of the last few ye
 
 ### The great race for machine learning in AD
 
+### Publicly available datasets
+
+### Cuingnet et al., 2011
+
+### Moradi et al., 2014
+
+### Salvatore et al., 2015
+
+### The CADDementia grand challenge
+
