@@ -3,7 +3,7 @@ layout: post
 title: "Automatic diagnosis of Alzheimer's Disease: where are we?"
 description: ""
 date: 2016-10-15
-tags: [sample post, readability, test, intro]
+tags: [automatic diagnosis, machine learning, artificial intelligence, alzheimer, mild cognitive impairment]
 comments: true
 share: true
 ---
