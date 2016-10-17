@@ -17,7 +17,11 @@ As you all know, AD is the most common neurodegenerative disease, affecting mill
 These considerations alone are able to explain the great race of the last few years for the implementation of machine learning algorithms able to automatically diagnosing AD and/or predicting the conversion of MCI.
 
 ### The great race for machine learning in AD
-In the last few years, there has been a great race for the implementation of automatic algorithms
+In the last few years, there has been a great race for the implementation of automatic algorithms for AD diagnosis. More explanatory than words, if you type the keywords "machine learning" and "alzheimer" in the *search* form of [scopus](https://www.scopus.com/), you will obtain this plot (search fields: article title, abstract, keywords; date: October 2016).
+
+![](https://github.com/christiansalvatore/christiansalvatore.github.io/tree/master/images)
+
+
 
 ### Publicly available datasets
 
