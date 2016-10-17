@@ -27,7 +27,7 @@ But what is the modality used as input to the classification algorithms?
 
 Of 368 retrieved papers, the majority (98) contain the keyword *MRI* (Magnetic Resonance Imaging). Then we go from *biological* (69), to *PET* (Positron Emission Tomography, 40), *neuropsych-* (33), *amyloid* (28), down to *CT* (computerized tomography, 4).
 
-As expected, MRI is the most used modality when we deal with neurological disorders. This is probably because it represents a good compromise between *sensitivity* (to brain changes due to the disease) and *non-invasiveness*.
+As expected, MRI -in particular structural MRI- is the most used modality when we deal with neurological disorders. This is probably because it represents a good compromise between *sensitivity* (to brain changes due to the disease) and *non-invasiveness*. For example, PET is more sensitive to functional brain alterations even preceeding structural changes, but its invasiveness is a big negative point.
 
 ### Publicly available datasets
 
