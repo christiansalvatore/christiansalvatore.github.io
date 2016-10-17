@@ -35,10 +35,11 @@ The second question may be *which feature-extraction/classification method is th
 
 Surprisingly, if you go through all these papers, you will note a strange distribution in classificatio performance: there will obviously be no published papers with very poor performance (under chance); there will be some papers with conceivably-average performance; but you will also find a lot of published papers with incredibly excellent performance, including perfect or quasi-perfect classifiers!
 Let's take, for example, the basic -yet *nontrivial*- diagnosis of AD. In this case, the classifier is asked to discriminate between subject with AD and Cognitively Normal (CN) subjects (AD vs CN). 
+
 PERFOMANCE AD
 PERFORMANCE MCIcMCInc
 
-* CUINGNET ET AL., 2011
+* Cuingnet et al., 2011
 
 * The CADDementia grand challenge (2015)
 
