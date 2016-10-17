@@ -17,8 +17,12 @@ As you all know, AD is the most common neurodegenerative disease, affecting mill
 These considerations alone are able to explain the great race of the last few years for the implementation of machine learning algorithms able to automatically diagnosing AD and/or predicting the conversion of MCI.
 
 ### The great race for machine learning in AD
+In the last few years, there has been a great race for the implementation of automatic algorithms
 
 ### Publicly available datasets
+
+http://www.oasis-brains.org/
+http://adni.loni.usc.edu/
 
 ### Cuingnet et al., 2011
 
@@ -29,4 +33,5 @@ These considerations alone are able to explain the great race of the last few ye
 ### The CADDementia grand challenge
 
 ### Classification performance: state of the art
+These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to (fill in the form)[form.it] is any data is missing or wrong.
 
