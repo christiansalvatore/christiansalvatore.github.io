@@ -34,4 +34,8 @@ http://adni.loni.usc.edu/
 
 ### Classification performance: state of the art
 These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to [fill in the form](http://path_to_form) if any data is missing or wrong.
+#### Cuingnet-509
+#### Moradi-
+#### Salvatore-509
+#### CADDementia dataset
 
