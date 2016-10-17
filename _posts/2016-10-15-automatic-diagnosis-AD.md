@@ -42,4 +42,4 @@ These tables are intended to be a summary of the state-of-the-art classification
 ##### Salvatore-509
 
 ##### CADDementia dataset
-Up-to-date results are collected in this [external webpage](https://grand-challenge.org/site/caddementia/results_all/).
+Up-to-date results are collected in this <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">external webpage</a>.
