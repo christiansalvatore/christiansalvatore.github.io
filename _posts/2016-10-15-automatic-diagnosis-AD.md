@@ -33,7 +33,7 @@ http://adni.loni.usc.edu/
 ### The CADDementia grand challenge
 
 ### Classification performance: state of the art
-These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to [fill in the form](http://path_to_form) if any data is missing or wrong.
+These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to [fill in the form](http://path_to_form) if the list is not up-to-date of if any data is missing/wrong.
 
 ##### Cuingnet-509
 
