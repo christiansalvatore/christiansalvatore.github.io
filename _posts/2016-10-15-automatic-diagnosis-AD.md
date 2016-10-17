@@ -38,7 +38,7 @@ Let's take, for example, the basic -yet *nontrivial*- diagnosis of AD. In this c
 PERFOMANCE AD
 PERFORMANCE MCIcMCInc
 
-* Cuingnet et al., 2011
+* CUINGNET ET AL., 2011
 
 * The CADDementia grand challenge (2015)
 
