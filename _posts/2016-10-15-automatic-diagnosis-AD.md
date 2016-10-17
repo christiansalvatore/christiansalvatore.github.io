@@ -19,8 +19,7 @@ These considerations alone are able to explain the great race of the last few ye
 ### The great race for machine learning in AD
 In the last few years, there has been a great race for the implementation of automatic algorithms for AD diagnosis. More explanatory than words, if you type the keywords "machine learning" and "alzheimer" in the *search* form of [scopus](https://www.scopus.com/), you will obtain this plot (search fields: article title, abstract, keywords; date: October 2016).
 
-<img src="https://github.com/christiansalvatore/christiansalvatore.github.io/tree/master/images/automatic-diagnosis-AD-figure-1.jpg" width="100%" />
-
+![](https://raw.githubusercontent.com/christiansalvatore/christiansalvatore.github.io/master/images/automatic-diagnosis-AD-figure-1.jpg)
 
 
 ### Publicly available datasets
