@@ -37,9 +37,9 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 ##### Cuingnet-509
 
-##### Moradi-
+##### Moradi-825
 
 ##### Salvatore-509
 
 ##### CADDementia dataset
-
+Up-to-date results are collected in this [external webpage](https://grand-challenge.org/site/caddementia/results_all/).
