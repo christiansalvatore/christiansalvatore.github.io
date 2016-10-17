@@ -23,7 +23,8 @@ In the last few years, there has been a great race for the implementation of aut
 <img src="https://raw.githubusercontent.com/christiansalvatore/christiansalvatore.github.io/master/images/automatic-diagnosis-AD-figure-1.jpg" style="width: 600px;"/>
 
 
-
+But what is the modality used as input to the classification algorithms?
+Of 368 retrieved papers, the majority (98) contain the keyword *MRI*. The we go from *biological* (69), to *PET* (40), *neuropsych-* (33), *amyloid* (28), down to Computerized Tomography - *CT* (4). 
 
 ### Publicly available datasets
 
