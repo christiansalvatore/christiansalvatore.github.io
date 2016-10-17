@@ -32,14 +32,19 @@ http://adni.loni.usc.edu/
 
 ### The CADDementia grand challenge (2015)
 
+______________________________________________
+
 ### Classification performance: state of the art
 These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to [fill in the form](http://path_to_form) if the list is not up-to-date or if any data is missing/wrong.
 
 ##### Cuingnet-509
 
+
 ##### Moradi-825
 
+
 ##### Salvatore-509
+
 
 ##### CADDementia dataset
 Up-to-date results are collected in this <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">external webpage</a>.
