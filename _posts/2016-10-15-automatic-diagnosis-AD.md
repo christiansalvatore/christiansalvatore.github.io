@@ -28,3 +28,5 @@ These considerations alone are able to explain the great race of the last few ye
 
 ### The CADDementia grand challenge
 
+### Classification performance: state of the art
+
