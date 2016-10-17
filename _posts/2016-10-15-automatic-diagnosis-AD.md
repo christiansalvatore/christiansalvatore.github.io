@@ -30,7 +30,7 @@ http://adni.loni.usc.edu/
 
 ### Salvatore et al., 2015
 
-### The CADDementia grand challenge
+### The CADDementia grand challenge (2015)
 
 ### Classification performance: state of the art
 These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to [fill in the form](http://path_to_form) if the list is not up-to-date or if any data is missing/wrong.
