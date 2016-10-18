@@ -70,6 +70,11 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 #### Cuingnet-509
 
+1\. AD vs CN
+
+|Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
+|:---|:---|:---|:---|:---|:---|
+
 
 #### Moradi-825
 
@@ -78,21 +83,21 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 1\. AD vs CN
 
-|Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
+|Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
 | | |<a href="" target="_blank">PRL 2016</a>| | | |
 |0.76|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
 
 2\. MCIc vs CN
 
-|Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
+|Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
 | | |<a href="" target="_blank">PRL 2016</a>| | | |
 |0.72|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
 
 3\. MCIc vs MCInc
 
-|Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
+|Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
 | | |<a href="" target="_blank">PRL 2016</a>| | | |
 |0.66|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
