@@ -65,7 +65,7 @@ Ok, so probably the diagnosis and prediction of conversion to AD is not a big pr
 
 ______________________________________________
 
-# Classification performance: state of the art
+### Classification performance: state of the art
 These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN2wZIzWESc7N3zJJOQhXni-p9-NTeFaAG_1MJPa6PLd9W4g/viewform" target="_blank">fill in the form</a> if the list is not up-to-date or if any data is missing/wrong.
 
 #### Cuingnet-509
@@ -85,7 +85,8 @@ These tables are intended to be a summary of the state-of-the-art classification
 | | |<a href="" target="_blank"></a>| | | |
 
 #### Salvatore-509
-This is a dataset of ADNI structural MRI images of 509 patients, including xxxxxxxxx    Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided.
+This is a dataset of ADNI structural MRI images of 509 patients, including xxxxxxxxx
+<br> Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided.
 
 1\. AD vs CN
 
