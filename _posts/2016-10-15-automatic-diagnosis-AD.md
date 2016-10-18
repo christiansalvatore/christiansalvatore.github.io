@@ -68,21 +68,33 @@ ______________________________________________
 ### Classification performance: state of the art
 These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN2wZIzWESc7N3zJJOQhXni-p9-NTeFaAG_1MJPa6PLd9W4g/viewform" target="_blank">fill in the form</a> if the list is not up-to-date or if any data is missing/wrong.
 
-##### Cuingnet-509
+#### Cuingnet-509
 
 
-##### Moradi-825
+#### Moradi-825
 
 
-##### Salvatore-509
+#### Salvatore-509
 
+1. AD vs CN
 |Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
 |---|---|---|---|---|---|
 | | |<a href="" target="_blank">PRL 2016</a>| | | |
 |0.76|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
 
+2. MCIc vs CN
+|Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
+|---|---|---|---|---|---|
+| | |<a href="" target="_blank">PRL 2016</a>| | | |
+|0.72|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
+
+3. MCIc vs MCInc
+|Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
+|---|---|---|---|---|---|
+| | |<a href="" target="_blank">PRL 2016</a>| | | |
+|0.66|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
 
 
 
-##### CADDementia dataset
+#### CADDementia dataset
 Up-to-date results are collected in this <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">external webpage</a>.
