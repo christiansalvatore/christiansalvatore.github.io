@@ -76,7 +76,7 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 #### Salvatore-509
 
-\1. AD vs CN
+1\. AD vs CN
 
 |Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
