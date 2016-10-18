@@ -78,8 +78,8 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 |Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
 |---|---|---|---|---|---|
-| | |<a href="" target="_blank">Pattern Recognition Letters, 2016</a>| | | |
-|0.76|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">Frontiers in Neuroscience, 2015</a>|-|-|-|
+| | |<a href="" target="_blank">PRL 2016</a>| | | |
+|0.76|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
 
 
 
