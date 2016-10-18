@@ -143,7 +143,7 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-|0.68|Voxel-STND-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.57|0.78|-|
+|0.68|Voxel-STAND-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.57|0.78|-|
 |0.66|Voxel-COMPARE-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.54|0.78|-|
 |0.66|Hippo-Volume-F|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.70|0.61|-|
 |0.66|Hippo-Volume-S|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.62|0.69|-|
