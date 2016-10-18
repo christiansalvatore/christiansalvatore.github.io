@@ -86,7 +86,7 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 #### Salvatore-509
 This is a dataset of ADNI structural MRI images of 509 patients, including xxxxxxxxx
-Results are int erms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided.
+Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided.
 
 1\. AD vs CN
 
