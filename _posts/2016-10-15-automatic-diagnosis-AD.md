@@ -76,6 +76,18 @@ These tables are intended to be a summary of the state-of-the-art classification
 |:---|:---|:---|:---|:---|:---|
 | | |<a href="" target="_blank"></a>| | | |
 
+2\. MCIc vs CN
+
+|Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
+|:---|:---|:---|:---|:---|:---|
+| | |<a href="" target="_blank"></a>| | | |
+
+3\. MCIc vs MCInc
+
+|Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
+|:---|:---|:---|:---|:---|:---|
+| | |<a href="" target="_blank"></a>| | | |
+
 #### Moradi-825
 
 1\. AD vs CN
