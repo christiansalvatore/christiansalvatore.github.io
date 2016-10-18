@@ -33,8 +33,14 @@ As expected, MRI -in particular structural MRI- is the most used modality when w
 
 The second question may be *which feature-extraction/classification method is the most used?* - but we will not go through this topic in this post. We would rather want to know what is the classification performance of these methods, that is, of the methods published in these (almost) 400 papers. This should answer to the most general question that is the title of this post - *Automatic classification of AD: where are we?*
 
-Surprisingly, if you go through all these papers, you will note a strange distribution in classificatio performance: there will obviously be no published papers with very poor performance (under chance); there will be some papers with conceivably-average performance; but you will also find a lot of published papers with incredibly excellent performance, including perfect or quasi-perfect classifiers!
-Let's take, for example, the basic -yet *nontrivial*- diagnosis of AD. In this case, the classifier is asked to discriminate between subject with AD and Cognitively Normal (CN) subjects (AD vs CN). 
+Surprisingly, if you go through all these papers, you will note a strange distribution in classification performance: there will obviously be no published papers with very poor performance (under chance); there will be some papers with conceivably-average performance; but you will also find a lot of published papers with incredibly excellent performance, including perfect or quasi-perfect classifiers!
+
+Let's take, for example, the basic -yet *nontrivial*- diagnosis of AD. In this case, the classifier is asked to discriminate between subject with AD and Cognitively Normal (CN) subjects (AD vs CN). If you have a look at the papers, you will discover that the major part of the published algorithms is able to obtain classification performance (accuracy/number of correct predictions over the whole test dataset) beyond 85%, some reaching 100% classification accuracy.
+
+So, how is this possible? We are not able to <a href="https://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354" target="_blank">classify handwritten digits</a> with 100% accuracy, but we can say if a patient has AD with no errors?
+Well, may this be due to the fact that AD and CN are easily-separable groups - given the deeply different characteristics of a normal brain (we are talking about structural MRI here) with respect to the brain of a patient with AD?
+
+Let's have a look at
 
 PERFOMANCE AD
 PERFORMANCE MCIcMCInc
