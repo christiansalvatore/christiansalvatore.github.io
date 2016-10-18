@@ -105,8 +105,6 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 |0.72|Hippo-Volume-F|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.63|0.80|-|
 |0.70|Voxel-Direct_VOI-S-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.59|0.81|-|
 
-<br>
-
 2\. MCIc vs CN
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
@@ -139,8 +137,6 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 | | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
 | | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
 | | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-
-<br>
 
 3\. MCIc vs MCInc
 
