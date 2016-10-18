@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is this Alzheimer?"
-description: "State of the art in automatic diagnosis of AD"
+description: "State of the art in the automatic diagnosis of AD"
 date: 2016-10-15
 tags: [automatic diagnosis, machine learning, artificial intelligence, alzheimer, mild cognitive impairment, public dataset]
 comments: true
