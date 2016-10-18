@@ -78,7 +78,7 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 |Result   |Method   |Venue   |Sensitivity   |Specificity   |AUC   |
 |---|---|---|---|---|---|
-|   |   |   |   |   |   |
+|0.76|(PCA+FDR)+SVM|Frontiers in Neuroscience, 2015|-|-|-|
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 
