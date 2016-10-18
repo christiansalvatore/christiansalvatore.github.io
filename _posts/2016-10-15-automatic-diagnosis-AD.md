@@ -74,19 +74,100 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-| | |<a href="" target="_blank"></a>| | | |
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
 
 2\. MCIc vs CN
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-| | |<a href="" target="_blank"></a>| | | |
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
 
 3\. MCIc vs MCInc
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-| | |<a href="" target="_blank"></a>| | | |
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
+| | |<a href="" target="_blank"></a>| | |-|
 
 #### Moradi-825
 
