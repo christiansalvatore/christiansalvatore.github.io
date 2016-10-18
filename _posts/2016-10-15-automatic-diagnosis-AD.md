@@ -109,34 +109,34 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>| | |-|
+|0.82|Voxel-Atlas-S-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.68|0.95|-|
+|0.80|Thickness-ROI|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.65|0.94|-|
+|0.79|Voxel-STAND-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.73|0.85|-|
+|0.79|Voxel-STAND-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.65|0.93|-|
+|0.77|Voxel-Direct-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.57|0.96|-|
+|0.77|Voxel-Atlas-S-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.59|0.94|-|
+|0.75|Thickness-Direct|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.54|0.96|-|
+|0.75|Thickness-Atlas|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.57|0.93|-|
+|0.75|Voxel-Direct_VOI-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.54|0.95|-|
+|0.74|Voxel-STAND-Sc-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.62|0.85|-|
+|0.74|Voxel-STAND-Sc-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.57|0.90|-|
+|0.74|Hippo-Volume|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.73|0.74|-|
+|0.73|Voxel-STAND-S-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.59|0.86|-|
+|0.73|Voxel-Atlas-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.65|0.80|-|
+|0.73|Voxel-Atlas-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.54|0.91|-|
+|0.73|Hippo-Shape|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.57|0.88|-|
+|0.72|Hippo-Volume|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.70|0.73|-|
+|0.71|Voxel-STAND-S-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.49|0.93|-|
+|0.70|Voxel-Direct-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.49|0.91|-|
+|0.69|Voxel-Direct_VOI-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.41|0.96|-|
+|0.69|Voxel-COMPARE-S-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.59|0.78|-|
+|0.68|Voxel-COMPARE-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.51|0.85|-|
+|0.68|Voxel-Direct-S-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.41|0.94|-|
+|0.65|Voxel-COMPARE-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.49|0.81|-|
+|0.64|Voxel-Direct-S-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.32|0.96|-|
+|0.64|Voxel-COMPARE-S-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.49|0.78|-|
+|0.61|Voxel-Direct_VOI-S-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.22|0.99|-|
+|0.60|Voxel-Direct_VOI-S-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.32|0.88|-|
 
 3\. MCIc vs MCInc
 
