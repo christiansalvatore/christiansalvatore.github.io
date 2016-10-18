@@ -74,7 +74,7 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-|0.88|Voxel-Direct-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NEUROIMAGE 2011</a>|0.81|0.95|-|
+|0.88|Voxel-Direct-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.81|0.95|-|
 |0.86|Voxel-Atlas-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NEUROIMAGE 2011</a>|0.78|0.93|-|
 |0.86|Voxel-Atlas-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NEUROIMAGE 2011</a>|0.81|0.90|-|
 |0.86|Voxel_COMPARE-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NEUROIMAGE 2011</a>|0.82|0.89|-|
