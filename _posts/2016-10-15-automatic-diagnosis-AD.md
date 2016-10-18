@@ -35,15 +35,16 @@ The second question may be *which feature-extraction/classification method is th
 
 Surprisingly, if you go through all these papers, you will note a strange distribution in classification performance: there will obviously be no published papers with very poor performance (under chance); there will be some papers with conceivably-average performance; but you will also find a lot of published papers with incredibly excellent performance, including perfect or quasi-perfect classifiers!
 
-Let's take, for example, the basic -yet *nontrivial*- diagnosis of AD. In this case, the classifier is asked to discriminate between subject with AD and Cognitively Normal (CN) subjects (AD vs CN). If you have a look at the papers, you will discover that the major part of the published algorithms is able to obtain classification performance (accuracy/number of correct predictions over the whole test dataset) beyond 85%, some reaching 100% classification accuracy.
+Let's take, for example, the basic -yet *nontrivial*- diagnosis of AD. In this case, the classifier is asked to discriminate between patients with AD and Cognitively Normal (CN) subjects (AD vs CN). If you have a look at the papers, you will discover that the major part of the published algorithms is able to obtain classification performance (accuracy/number of correct predictions over the whole test dataset) beyond 85%, some reaching 100% classification accuracy.
 
 So, how is this possible? We are not able to <a href="https://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354" target="_blank">classify handwritten digits</a> with 100% accuracy, but we can say if a patient has AD with no errors?
 Well, may this be due to the fact that AD and CN are easily-separable groups - given the deeply different characteristics of a normal brain (we are talking about structural MRI here) with respect to the brain of a patient with AD?
 
-Let's have a look at
+Let's have a look at a much more complicated task, then: the prediction of conversion of MCI to AD. In this case, the classifier is asked to discriminate between patients with MCI who will convert to AD and patients with MCI who will not convert to AD (MCIc vs MCInc). Obviously, as we don't know how to figure out if a patient will or will not convert to AD, the final diagnosis is obtained by following patients up for a given period of time (say, 18/36 months) and by using the diagnosis at that time (AD or still MCI) as final gold standard to evaluate the predictive power of our classification algorithm. In this way, baseline (time zero) data are used for training/validation/testing of the classifier, while follow-up labels are used as gold standard for evaluating classification performance.
 
-PERFOMANCE AD
-PERFORMANCE MCIcMCInc
+Again, if you have a look at these papers, you will discover that classification of MCIc vs MCInc can easily go beyond 70%, which is an excellent result for such a huge problem, still reaching nearly 100% accuracy in some cases.
+
+Ok, so probably the diagnosis and prediction of conversion to AD is not a big problem. We got it? Not exactly.
 
 * Cuingnet et al., 2011
 
