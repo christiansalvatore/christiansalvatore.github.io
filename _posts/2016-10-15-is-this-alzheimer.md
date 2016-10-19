@@ -93,7 +93,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
 |0.68|Voxel-STAND-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.57|0.78|-|
-|0.68|LDS+Removing age-related effec|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>|0.64|0.72|0.75|
+|0.68|LDS+Removing age-related effect|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>|0.64|0.72|0.75|
 |0.66|Voxel-COMPARE-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.54|0.78|-|
 |0.66|Hippo-Volume-F|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.70|0.61|-|
 |0.66|Hippo-Volume-S|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.62|0.69|-|
@@ -112,7 +112,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 ______________________________
 
 ## Moradi-825
-This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 825 patients, including 200 AD, 164 MCIc, 100 MCInc, 100 unknown MCI (uMCI) and 231 CN.
+This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 825 patients, including 200 AD, 164 MCIc, 100 MCInc, 100 unknown MCI (uMCI) and 231 CN. In the original paper, also results using sMRI + age and cognitive measures are reported, but this will not be considered here.
 <br> The following binary comparisons are reported: **MCIc vs MCInc**.
 <br> **Results** are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
 <br> *Citing:*
