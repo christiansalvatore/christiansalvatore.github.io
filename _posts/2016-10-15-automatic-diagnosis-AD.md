@@ -55,11 +55,9 @@ Ok, so probably the diagnosis and prediction of conversion to AD is not a big pr
 
 ### A few other examples...
 
-
-
 * Moradi et al., 2014
 
-* Salvatore et al., 2015
+* Salvatore et al., 2015 - my own experience
 
 
 
