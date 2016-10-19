@@ -93,6 +93,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
 |0.68|Voxel-STAND-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.57|0.78|-|
+|0.68|LDS+Removing age-related effec|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>|0.64|0.72|0.75|
 |0.66|Voxel-COMPARE-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.54|0.78|-|
 |0.66|Hippo-Volume-F|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.70|0.61|-|
 |0.66|Hippo-Volume-S|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.62|0.69|-|
