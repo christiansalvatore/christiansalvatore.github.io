@@ -23,7 +23,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 ```
 
 1\. AD vs CN
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
+<span style="font-size: 0.8em;">
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
