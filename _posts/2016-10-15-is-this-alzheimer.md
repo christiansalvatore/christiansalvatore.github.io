@@ -167,7 +167,7 @@ Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early
 ______________________________
 
 ## CADDementia dataset
-This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 384 patients, including 112 AD, 131 MCI and 141 CN.
+This is a dataset of ADNI structural MRI images (T1-weighted @ 3T) of 384 patients, including 112 AD, 131 MCI and 141 CN.
 <br> Up-to-date results are collected in this <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">external webpage</a>.
 <br> *Citing:*
 
