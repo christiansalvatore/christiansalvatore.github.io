@@ -11,6 +11,7 @@ share: true
 These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN2wZIzWESc7N3zJJOQhXni-p9-NTeFaAG_1MJPa6PLd9W4g/viewform" target="_blank">fill in the form</a> if the list is not up-to-date or if any data is missing/wrong.
 
 _______________
+
 ## Cuingnet-509
 This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN.
 <br> The following binary comparisons are reported: AD vs CN, MCIc vs CN, MCIc vs MCInc.
@@ -104,6 +105,7 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 
 <br>
 _____________
+
 ## Moradi-825
 1\. AD vs CN
 
@@ -113,6 +115,7 @@ _____________
 
 <br>
 ________________
+
 ## Salvatore-509
 This is a dataset of ADNI structural MRI images of 509 patients, including xxxxxxxxx
 <br> Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided.
@@ -140,5 +143,6 @@ This is a dataset of ADNI structural MRI images of 509 patients, including xxxxx
 
 <br>
 ______________________
+
 ## CADDementia dataset
 Up-to-date results are collected in this <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">external webpage</a>.
