@@ -12,6 +12,9 @@ These tables are intended to be a summary of the state-of-the-art classification
 
 ______________________________
 
+<div id="Cuingnet-509">
+</div>
+
 ## Cuingnet-509
 This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN. ID of patients (from ADNI) are published online.
 <br> The following binary comparisons are reported: **AD vs CN**, **MCIc vs CN**, **MCIc vs MCInc**.
@@ -113,6 +116,9 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 |0.53|Voxel-STAND-Sc-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.35|0.70|-|
 
 ______________________________
+
+<div id="Moradi-825">
+</div>
 
 ## Moradi-825
 This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 825 patients, including 200 AD, 164 MCIc, 100 MCInc, 100 unknown MCI (uMCI) and 231 CN. In the original paper, also results using sMRI + age and cognitive measures are reported, but this will not be considered here. ID of patients (from ADNI) are published online.
