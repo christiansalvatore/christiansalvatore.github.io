@@ -125,7 +125,7 @@ Moradi, E. et al. (2015). Machine learning framework for early MRI-based Alzheim
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-|0.75|LDS<a href="dropdownmenus.php">Dropdown menus<span>Further information:-<br> Only one link can be opened (the one on the menu button), no links are possible in this panel.<br> Use dropdown menus for several dropdown links.</span></a>|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>| | | |
+|0.75|LDS+Removing age-related effect|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>|0.89|0.52|0.77|
 
 ______________________________
 
