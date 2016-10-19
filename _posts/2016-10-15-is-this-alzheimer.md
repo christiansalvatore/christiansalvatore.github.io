@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Is this Alzheimer?"
-description: "State of the art in the automatic diagnosis of AD"
+description: "State of the art in the automatic diagnosis of AD using structural MRI"
 date: 2016-10-15
 tags: [automatic diagnosis, machine learning, artificial intelligence, alzheimer, mild cognitive impairment, public datasets]
 comments: true
 share: true
 ---
 
-These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets. Please, feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN2wZIzWESc7N3zJJOQhXni-p9-NTeFaAG_1MJPa6PLd9W4g/viewform" target="_blank">fill in the form</a> or to <a href="mailto:christian.salvatore@ibfm.cnr.it" target="_blank">contact me</a> if the list is not up-to-date or if any data is missing/wrong.
+These tables are intended to be a summary of the state-of-the-art classification performance of AD using public datasets of structural MRIs. Please, feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN2wZIzWESc7N3zJJOQhXni-p9-NTeFaAG_1MJPa6PLd9W4g/viewform" target="_blank">fill in the form</a> or to <a href="mailto:christian.salvatore@ibfm.cnr.it" target="_blank">contact me</a> if the list is not up-to-date or if any data is missing/wrong.
 
 ______________________________
 
