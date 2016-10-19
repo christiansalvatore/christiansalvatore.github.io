@@ -31,6 +31,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 |0.86|Voxel-Atlas-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.81|0.90|-|
 |0.86|Voxel_COMPARE-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.82|0.89|-|
 |0.85|Thickness-Atlas|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.79|0.90|-|
+|0.85|Imaging features + LDA|<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025446" target="_blank">Plos One 2011</a>|0.94|0.76|-|
 |0.84|Voxel-Atlas-S-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.75|0.93|-|
 |0.84|Voxel-Atlas-S-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.74|0.93|-|
 |0.83|Voxel-Direct-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.68|0.98|-|
@@ -59,6 +60,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
+|0.92|Imaging features + LDA|<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025446" target="_blank">Plos One 2011</a>|0.94|0.89|-|
 |0.82|Voxel-Atlas-S-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.68|0.95|-|
 |0.80|Thickness-ROI|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.65|0.94|-|
 |0.79|Voxel-STAND-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.73|0.85|-|
@@ -94,6 +96,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 |:---|:---|:---|:---|:---|:---|
 |0.68|Voxel-STAND-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.57|0.78|-|
 |0.68|LDS+Removing age-related effect|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>|0.64|0.72|0.75|
+|0.67|Hippocampal volume + LDA|<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025446" target="_blank">Plos One 2011</a>|0.63|0.70|-|
 |0.66|Voxel-COMPARE-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.54|0.78|-|
 |0.66|Hippo-Volume-F|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.70|0.61|-|
 |0.66|Hippo-Volume-S|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.62|0.69|-|
