@@ -103,8 +103,6 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 |0.53|Thickness-ROI|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.24|0.82|-|
 |0.53|Voxel-STAND-Sc-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">Neuroimage 2011</a>|0.35|0.70|-|
 
-<br>
-
 ______________________________
 
 ## Moradi-825
@@ -113,8 +111,6 @@ ______________________________
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
 | | |<a href="" target="_blank"></a>| | | |
-
-<br>
 
 ______________________________
 
@@ -142,8 +138,6 @@ This is a dataset of ADNI structural MRI images of 509 patients, including xxxxx
 |:---|:---|:---|:---|:---|:---|
 | | |<a href="" target="_blank">PRL 2016</a>| | | |
 |0.66|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
-
-<br>
 
 ______________________________
 
