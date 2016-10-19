@@ -3,7 +3,7 @@ layout: post
 title: "Is this Alzheimer?"
 description: "State of the art in the automatic diagnosis of AD"
 date: 2016-10-15
-tags: [automatic diagnosis, machine learning, artificial intelligence, alzheimer, mild cognitive impairment, public dataset]
+tags: [automatic diagnosis, machine learning, artificial intelligence, alzheimer, mild cognitive impairment, public datasets]
 comments: true
 share: true
 ---
@@ -106,17 +106,25 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 ______________________________
 
 ## Moradi-825
+
+
 1\. AD vs CN
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-| | |<a href="" target="_blank"></a>| | | |
+| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">Neuroimage 2015</a>| | | |
 
 ______________________________
 
 ## Salvatore-509
 This is a dataset of ADNI structural MRI images of 509 patients, including xxxxxxxxx
 <br> Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided.
+Citing:
+'''
+Salvatore, C. et al. (2015).
+Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach.
+Frontiers in neuroscience, 9.
+'''
 
 1\. AD vs CN
 
