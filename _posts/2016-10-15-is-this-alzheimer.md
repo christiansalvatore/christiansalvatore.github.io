@@ -135,6 +135,7 @@ ______________________________
 
 <div id="Salvatore-509">
 </div>
+
 ## Salvatore-509
 This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN. These subjects are the same used in Cuingnet-509, but with the difference that in this case a nested 20-fold CV was used (instead of a half-splitting into training and testing subsets and leave-one-out in the training subset for validation, as in the original paper by Cuingnet et al.). Both ID of patients (from ADNI) and nested-CV splitting are <a href="" target="_blank">published online</a>.
 <br> The following binary comparisons are reported: **AD vs CN**, **MCIc vs CN**, **MCIc vs MCInc**.
@@ -167,6 +168,9 @@ Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early
 |0.66|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">FRONT NEUROSCI 2015</a>|-|-|-|
 
 ______________________________
+
+<div id="CADDementia-dataset">
+</div>
 
 ## CADDementia dataset
 This is a multi-center dataset of structural MRI images (T1-weighted @ 3T) of 384 patients, including 112 AD, 131 MCI and 141 CN.
