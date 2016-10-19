@@ -163,4 +163,10 @@ Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early
 ______________________________
 
 ## CADDementia dataset
-Up-to-date results are collected in this <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">external webpage</a>.
+This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of ????? patients, including ????? AD, ????? MCIc, ????? MCInc, ????? CN.
+<br> Up-to-date results are collected in this <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">external webpage</a>.
+<br> *Citing:*
+
+```
+Bron, E. et al. (2015). Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge. NeuroImage, 111, 562-579.
+```
