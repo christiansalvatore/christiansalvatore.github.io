@@ -13,7 +13,7 @@ These tables are intended to be a summary of the state-of-the-art classification
 ______________________________
 
 ## Cuingnet-509
-This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN.
+This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN. ID of patients (from ADNI) are published online.
 <br> The following binary comparisons are reported: **AD vs CN**, **MCIc vs CN**, **MCIc vs MCInc**.
 <br> **Results** are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
 <br> *Citing:*
@@ -115,7 +115,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 ______________________________
 
 ## Moradi-825
-This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 825 patients, including 200 AD, 164 MCIc, 100 MCInc, 100 unknown MCI (uMCI) and 231 CN. In the original paper, also results using sMRI + age and cognitive measures are reported, but this will not be considered here.
+This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 825 patients, including 200 AD, 164 MCIc, 100 MCInc, 100 unknown MCI (uMCI) and 231 CN. In the original paper, also results using sMRI + age and cognitive measures are reported, but this will not be considered here. ID of patients (from ADNI) are published online.
 <br> The following binary comparisons are reported: **MCIc vs MCInc**.
 <br> **Results** are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
 <br> *Citing:*
@@ -134,7 +134,7 @@ Moradi, E. et al. (2015). Machine learning framework for early MRI-based Alzheim
 ______________________________
 
 ## Salvatore-509
-This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN. These subjects are the same used in Cuingnet-509, but with the difference that in this case a nested 20-fold CV was used. Both ID of patients (from ADNI) and nested-CV splitting are <a href="" target="_blank">published online</a>.
+This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN. These subjects are the same used in Cuingnet-509, but with the difference that in this case a nested 20-fold CV was used (instead of a half-splitting into training and testing subsets and leave-one-out in the training subset for validation, as in the original paper by Cuingnet et al.). Both ID of patients (from ADNI) and nested-CV splitting are <a href="" target="_blank">published online</a>.
 <br> The following binary comparisons are reported: **AD vs CN**, **MCIc vs CN**, **MCIc vs MCInc**.
 <br> **Results** are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
 <br> *Citing:*
