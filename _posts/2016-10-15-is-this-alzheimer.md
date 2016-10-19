@@ -117,9 +117,10 @@ ______________________________
 ______________________________
 
 ## Salvatore-509
-This is a dataset of ADNI structural MRI images of 509 patients, including xxxxxxxxx
-<br> Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided.
-Citing:
+This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN.
+<br> The following binary comparisons are reported: AD vs CN, MCIc vs CN, MCIc vs MCInc.
+<br> Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
+<br> Citing:
 '''
 Salvatore, C. et al. (2015).
 Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach.
