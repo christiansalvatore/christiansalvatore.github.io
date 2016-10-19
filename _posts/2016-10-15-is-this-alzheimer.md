@@ -111,8 +111,8 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 ______________________________
 
 ## Moradi-825
-This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of ????? patients, including ????? AD, ????? MCIc, ????? MCInc, ????? CN.
-<br> The following binary comparisons are reported: **AD vs CN**, **MCIc vs CN**, **MCIc vs MCInc**.
+This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 825 patients, including 200 AD, 164 MCIc, 100 MCInc, 100 unknown MCI (uMCI) and 231 CN.
+<br> The following binary comparisons are reported: **MCIc vs MCInc**.
 <br> **Results** are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
 <br> *Citing:*
 
@@ -121,11 +121,11 @@ Moradi, E. et al. (2015). Machine learning framework for early MRI-based Alzheim
 ```
 
 
-1\. AD vs CN
+1\. MCIc vs MCInc
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-| | |<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>| | | |
+|0.75|LDS<a href="dropdownmenus.php">Dropdown menus<span>Further information:-<br> Only one link can be opened (the one on the menu button), no links are possible in this panel.<br> Use dropdown menus for several dropdown links.</span></a>|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>| | | |
 
 ______________________________
 
