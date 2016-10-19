@@ -53,7 +53,7 @@ Ok, so probably the diagnosis and prediction of conversion to AD is not a big pr
 ### Publicly available datasets
 <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices.
 
-### A few other examples...
+### A few other examples
 
 * Moradi et al., 2014
 
