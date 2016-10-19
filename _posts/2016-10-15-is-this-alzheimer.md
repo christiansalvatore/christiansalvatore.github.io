@@ -23,6 +23,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 ```
 
 1\. AD vs CN
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
@@ -55,6 +56,8 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 |0.74|Hippo-Volume-S|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.71|0.77|-|
 |0.72|Hippo-Volume-F|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.63|0.80|-|
 |0.70|Voxel-Direct_VOI-S-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.59|0.81|-|
+
+</span>
 
 2\. MCIc vs CN
 
