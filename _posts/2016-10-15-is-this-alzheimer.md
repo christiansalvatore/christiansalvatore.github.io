@@ -123,7 +123,9 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 <br> Citing: <br>
 
 ```
-Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 9.
+Salvatore, C. et al. (2015).
+Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach.
+Frontiers in neuroscience, 9.
 ```
 
 1\. AD vs CN
