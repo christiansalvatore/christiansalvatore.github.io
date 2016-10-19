@@ -28,7 +28,7 @@ disqus:
 # URL
 url:                "https://christiansalvatore.github.io"
 #url:               "localhost:4000"
-baseurl:            ""
+baseurl:            "https://christiansalvatore.github.io"
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
