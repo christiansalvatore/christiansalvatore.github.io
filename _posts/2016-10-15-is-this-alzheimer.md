@@ -14,8 +14,13 @@ ______________________________
 
 ## Cuingnet-509
 This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN.
-<br> The following binary comparisons are reported: AD vs CN, MCIc vs CN, MCIc vs MCInc.
-<br> Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
+<br> The following binary comparisons are reported: **AD vs CN**, **MCIc vs CN**, **MCIc vs MCInc**.
+<br> **Results** are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
+<br> *Citing:*
+
+```
+Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 56(2), 766-781.
+```
 
 1\. AD vs CN
 
@@ -106,6 +111,14 @@ This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of 509 pati
 ______________________________
 
 ## Moradi-825
+This is a dataset of ADNI structural MRI images (T1-weighted @ 1.5T) of ????? patients, including ????? AD, ????? MCIc, ????? MCInc, ????? CN.
+<br> The following binary comparisons are reported: **AD vs CN**, **MCIc vs CN**, **MCIc vs MCInc**.
+<br> **Results** are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported.
+<br> *Citing:*
+
+```
+Moradi, E. et al. (2015). Machine learning framework for early MRI-based Alzheimer's conversion prediction in MCI subjects. NeuroImage, 104, 398-412.
+```
 
 
 1\. AD vs CN
