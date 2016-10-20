@@ -64,7 +64,7 @@ The aim of the competition was clear:
 > In this challenge, we aim to take a step forward to the clinical use of computer-aided diagnosis methods for dementia by performing a large-scale objective validation. To compare the performance of image-based diagnosis methods, all researchers are invited to participate with their algorithms.
 
 Unlike previously cited cases, this time the evaluation was made for the multi-group classification of AD vs MCI vs CN, which results slightly more difficult than performing binary classification tasks. However, in this case the *MCI* group was not splitted into MCI and MCInc, which, on the other hand, turns out to facilitate the discrimination. Another peculiarity of this competition is that the provided training set was not so large, so researchers were allowed to use independent cohorts to train their classifier (obviously, the testing set remained fixed, instead).
-<br> The results of this competition can be found directly on the webpage of the <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">CADDementia challenge</a> and, as it can be seen, original results ranged from 32 to 63% for the multi-group classification of AD vs MCI vs CN.
+<br> The performance obtained in this competition can be found directly on the webpage of the <a href="https://grand-challenge.org/site/caddementia/results_all/" target="_blank">CADDementia challenge</a> and, as it can be seen, original results ranged from 32 to 63% for the multi-group classification of AD vs MCI vs CN.
 <br> Not so good.
 <br> Finally: a good feature of this competition is that the challenge remains open for new submissions. So, if you can do better than this, what are you waiting for?
 
