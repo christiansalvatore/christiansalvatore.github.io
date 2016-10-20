@@ -65,13 +65,9 @@ An initiative similar to the previous one (in terms of aims and results) was car
 
 ### A few other examples
 
-* Moradi et al., 2014
+* **Moradi et al., 2014**
 
-* Salvatore et al., 2015 - my own experience
-
-
-
-______________________________________________
+* **Salvatore et al., 2015 - my own experience**
 
 ### Classification performance: state of the art
 
