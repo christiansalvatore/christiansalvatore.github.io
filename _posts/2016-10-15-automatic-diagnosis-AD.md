@@ -52,7 +52,7 @@ In 2011, Remi Cuingnet and colleagues decided to take ten different machine lear
 <br> What turned out to be the classification performance of these methods on a unique dataset?
 <br> Results showed that automatic classification of AD vs CN ranges from a minimum of 70 to a maximum of 88% (balanced accuracy), classification of MCIc vs CN from 60 to 82%, and classification of MCIc vs MCInc from 50 to 68%.
 
->Prediction of conversion to AD reaches a accuracy of 68%.
+>Prediction of conversion to AD reaches an accuracy of 68%.
 
 A big difference with respect to accuracy obtained on individual datasets!
 
