@@ -83,5 +83,5 @@ The big gap between performance obtained using individual datasets and performan
 [link](https://christiansalvatore.github.io/2016-10-15/is-this-alzheimer/)
 
 ### References
-<p name="ref3">[3]</p>: Review
+<p name="ref3">[3]: Review</p>
 
