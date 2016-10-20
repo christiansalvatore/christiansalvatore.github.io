@@ -58,7 +58,10 @@ A big difference with respect to the performance obtained on individual datasets
 
 * **The CADDementia grand challenge (2015)**
 
-An initiative similar to the previous one (in terms of aims and results) was carried out by Bron and colleagues a few years later, in 2015.
+An initiative similar to the previous one (in terms of aims and results) was carried out by Bron and colleagues a few years later, in 2015. In this case, they set up a challenge, which is much closer to what actually happens in fields like computer vision, where different algorithms are evaluated on big datasets through public competitions. In this particular case, 
+The aim of this competition was clear:
+
+> In this challenge, we aim to take a step forward to the clinical use of computer-aided diagnosis methods for dementia by performing a large-scale objective validation. To compare the performance of image-based diagnosis methods, all researchers are invited to participate with their algorithms.
 
 ### Some considerations
 <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices.
