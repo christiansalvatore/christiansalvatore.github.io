@@ -46,7 +46,7 @@ Again, if you have a look at these papers, you will discover that classification
 
 Ok, so probably the diagnosis and prediction of conversion to AD is not a big problem. We got it? Not exactly.
 
-* Cuingnet et al., 2011
+* **Cuingnet et al., 2011**
 
 In 2011, Remy Cuingnet and colleagues decided to take ten different machine learning methods, which had already been tested for automatic classification on different datasets, and to use the, to classify the same dataset of patients from the Alzheimer's Disease Neuroimaging Initiative (<a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a>). In this way, they were sure to have a common benchmark on which different algorithms could be compared basing on theri classification performance. This set of patients as retrieved from a public dataset (ADNI) in order to make results reproducible, and ID of patients were made publicly available. This dataset consisted of 509 patients, including 137 AD, 76 MCIc, 134 MCInc and 162 CN. Structural MRI images (T1-weighted @ 1.5T) of these patients were used, and the following binary comparisons were performed: AD vs CN, MCIc vs CN, MCIc vs MCInc.
 
