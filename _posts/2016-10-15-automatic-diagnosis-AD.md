@@ -69,6 +69,8 @@ Unlike previously cited cases, this time the evaluation was made for the multi-g
 <br> Finally: a good feature of this competition is that the challenge remains open for new submissions. So, if you can do better than this, what are you waiting for?
 
 ### Some considerations
+The big gap between performance obtained using individual datasets and performance obtained on public/shared ones can be primarily ascibed to the dataset. Indeed, researchers always tend to choose datasets/subjects that are as *clean* as possible, but this always results in overestimating the performance of a classification algorithm. In other words, we obtain good results (also) because the group of patients that we are trying to discriminate is -*in fact*- easily separable, and we'd probably obtain high performance with much more *primitive* classification algorithms.
+
 <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices.
 
 ### A few other examples
