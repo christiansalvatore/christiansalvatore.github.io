@@ -56,9 +56,11 @@ In 2011, Remi Cuingnet and colleagues decided to take ten different machine lear
 
 A big difference with respect to accuracy obtained on individual datasets!
 
-* The CADDementia grand challenge (2015)
+* **The CADDementia grand challenge (2015)**
 
-### Publicly available datasets
+An initiative similar to the previous one (in terms of aims and results) was carried out by Bron and colleagues a few years later, in 2015.
+
+### Some considerations
 <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices.
 
 ### A few other examples
