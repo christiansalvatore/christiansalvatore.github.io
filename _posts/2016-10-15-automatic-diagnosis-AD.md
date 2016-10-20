@@ -65,4 +65,4 @@ ______________________________________________
 
 ### Classification performance: state of the art
 
-(https://christiansalvatore.github.io/2016-10-15/is-this-alzheimer/)[link]
+[https://christiansalvatore.github.io/2016-10-15/is-this-alzheimer/](link)
