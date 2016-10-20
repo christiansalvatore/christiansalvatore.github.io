@@ -156,7 +156,7 @@ Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early
 
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
-|0.85|Combining multiple approaches + SVM|<a href="" target="_blank">PRL 2016</a>|0.88|0.82|-|
+|0.85|Multiple approaches + SVM|<a href="" target="_blank">PRL 2016</a>|0.88|0.82|-|
 |0.76|(PCA+FDR)+SVM|<a href="http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full" target="_blank">Front Neurosci 2015</a>|-|-|-|
 
 2\. MCIc vs CN
