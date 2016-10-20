@@ -70,7 +70,7 @@ Unlike previously cited cases, this time the evaluation was made for the multi-g
 
 ### Some considerations
 The big gap between performance obtained using individual datasets and performance obtained on public/shared ones can be primarily ascibed to the dataset. Indeed, researchers always tend to choose datasets/subjects that are as *clean* as possible, but this always results in overestimating the performance of a classification algorithm. In other words, we obtain good results (also) because the group of patients that we are trying to discriminate is -*in fact*- easily separable, and we'd probably obtain high performance with much more *primitive* classification algorithms.
-<br> As pointed out in a recent review [3][3], in order to avoid this issue, publicly available databases should always be used to evaluate the performance of a classification algorithm on a given pathology. For example, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices providing data of patients with AD.
+<br> As pointed out in a recent review [^1] [3], in order to avoid this issue, publicly available databases should always be used to evaluate the performance of a classification algorithm on a given pathology. For example, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices providing data of patients with AD.
 
 ### A few other examples
 
@@ -83,4 +83,5 @@ The big gap between performance obtained using individual datasets and performan
 [link](https://christiansalvatore.github.io/2016-10-15/is-this-alzheimer/)
 
 ### References
-[1]: review car
+[^1]: review car
+
