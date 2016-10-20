@@ -83,5 +83,5 @@ The big gap between performance obtained using individual datasets and performan
 [link](https://christiansalvatore.github.io/2016-10-15/is-this-alzheimer/)
 
 ### References
-[^1]: review car
+[^1]: [review car](tonde)
 
