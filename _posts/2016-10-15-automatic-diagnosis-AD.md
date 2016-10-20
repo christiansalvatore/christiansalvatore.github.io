@@ -54,7 +54,7 @@ In 2011, Remi Cuingnet and colleagues decided to take ten different machine lear
 
 >Prediction of conversion to AD reaches an accuracy of 68%.
 
-A big difference with respect to accuracy obtained on individual datasets!
+A big difference with respect to the performance obtained on individual datasets!
 
 * **The CADDementia grand challenge (2015)**
 
