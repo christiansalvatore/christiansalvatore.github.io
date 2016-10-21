@@ -74,10 +74,10 @@ The big gap between performance obtained using individual datasets and performan
 
 ### A few other examples
 
-* **Moradi et al., 2014**
+* **Moradi et al., 2015**
 
 Other examples of this simple principle are present in recent literature. In 2015, Elaheh Morari and colleagues \[[4](#ref)] published a paper in which they tried to automatically classify MCI patients using structural MRI from the ADNI database, using a cohort of 200 AD, 164 MCIc, 100 MCInc and 231 CN. Their algorithm resulted in an accuracy of 75% for the classification of MCIc vs MCInc. The authors of the paper published the IDs of the patients used in their work, thus making future comparisons possible.
-<br> Moreover, 
+<br> Moreover, a further analysis was present in their paper: in order to compare their performance with the work by Cuingnet and colleagues \[[1](#ref)], the authors performed the same experiments (i.e., with the same classifier and configuration) using training and testing set used in their manuscript. The perofrmance obtained was 68% (balanced accuracy), that is lower than the accuracy obtained using their own dataset and is equal to the maximum accuracy obtained in the original paper by Cuingnet et al.
 
 * **Salvatore et al., 2015** - *my own experience*
 
