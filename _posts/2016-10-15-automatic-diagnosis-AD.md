@@ -25,7 +25,7 @@ In the last few years, there has been a great race for the implementation of aut
 
 But what is the modality used as input to the classification algorithms?
 
-Just to give a rough estimate, of 368 retrieved papers, the majority (98) contains the keyword *MRI* (Magnetic Resonance Imaging). Then we go from *biological* (69), to *PET* (Positron Emission Tomography, 40), *neuropsych-* (neuropsychological test scores, 33), *amyloid* (28), down to *CT* (computerized tomography, 4).
+Just to give a rough estimate, of 368 retrieved papers, the majority (98) contains the keyword *MRI* (Magnetic Resonance Imaging). Then we go from *biological* (69), to *genetic* (50), to *PET* (Positron Emission Tomography, 40), *neuropsych-* (neuropsychological test scores, 33), *amyloid* (28), down to *CT* (computerized tomography, 4).
 
 As expected, MRI -in particular structural MRI- is the most used modality when we deal with neurological disorders. This is probably because it represents a good compromise between *sensitivity* (to brain changes due to the disease) and *non-invasiveness*. For example, PET is more sensitive to functional brain alterations even preceeding structural changes, but its invasiveness is a big negative point.
 
@@ -69,14 +69,15 @@ Unlike previously cited cases, this time the evaluation was made for the multi-g
 <br> Finally: a good feature of this competition is that the challenge remains open for new submissions. So, if you can do better than this, what are you waiting for?
 
 ### Some considerations
-The big gap between performance obtained using individual datasets and performance obtained on public/shared ones can be primarily ascibed to the dataset. Indeed, researchers always tend to choose datasets/subjects that are as *clean* as possible, but this always results in overestimating the performance of a classification algorithm. In other words, we obtain good results (also) because the group of patients that we are trying to discriminate is -*in fact*- easily separable, and we'd probably obtain high performance with much more *primitive* classification algorithms.
-<br> As pointed out in a recent review \[[3](#ref)], in order to avoid this issue, publicly available databases should always be used to evaluate the performance of a classification algorithm on a given pathology. For example, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices providing data of patients with AD.
+The big gap between performance obtained using individual datasets and performance obtained on public/shared ones can be primarily ascibed to the chioce of the dataset. Indeed, researchers always tend to choose datasets/subjects that are as *clean* as possible, but this always results in overestimating the performance of a classification algorithm. In other words, we obtain good results (also) because the group of patients that we are trying to discriminate is -*in fact*- easily separable, and we'd probably obtain high performance even with much more *primitive* classification algorithms.
+<br> As pointed out in a recent review by my research group \[[3](#ref)], in order to avoid this issue, publicly available databases should always be used to evaluate the performance of a classification algorithm on a given pathology. For example, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices providing data of patients with AD.
 
 ### A few other examples
 
 * **Moradi et al., 2014**
 
-\[[4](#ref)]
+Other examples of this simple principle are present in recent literature. In 2015, Elaheh Morari and colleagues \[[4](#ref)] published a paper in which they tried to automatically classify MCI patients using structural MRI from the ADNI database, using a cohort of 200 AD, 164 MCIc, 100 MCInc and 231 CN. Their algorithm resulted in an accuracy of 75% for the classification of MCIc vs MCInc. The authors of the paper published the IDs of the patients used in their work, thus making future comparisons possible.
+<br> Moreover, 
 
 * **Salvatore et al., 2015** - *my own experience*
 
