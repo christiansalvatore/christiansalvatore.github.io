@@ -76,12 +76,13 @@ The big gap between performance obtained using individual datasets and performan
 
 * **Moradi et al., 2015**
 
-Other examples of this simple principle are present in recent literature. In 2015, Elaheh Morari and colleagues \[[4](#ref)] published a paper in which they tried to automatically classify MCI patients using structural MRI from the ADNI database, using a cohort of 200 AD, 164 MCIc, 100 MCInc and 231 CN. Their algorithm resulted in an accuracy of 75% for the classification of MCIc vs MCInc. The authors of the paper published the IDs of the patients used in their work, thus making future comparisons possible.
+Other examples of this simple principle are present in recent literature. In 2015, Elaheh Moradi and colleagues \[[4](#ref)] published a paper in which they tried to automatically classify MCI patients using structural MRI from the ADNI database, using a cohort of 200 AD, 164 MCIc, 100 MCInc and 231 CN. Their algorithm resulted in an accuracy of 75% for the classification of MCIc vs MCInc. The authors of the paper published the IDs of the patients used in their work, thus making future comparisons possible.
 <br> Moreover, a further analysis was present in their paper: in order to compare their performance with the work by Cuingnet and colleagues \[[1](#ref)], the authors performed the same experiments (i.e., with the same classifier and configuration) using training and testing set used in their manuscript. The perofrmance obtained was 68% (balanced accuracy), that is lower than the accuracy obtained using their own dataset and is equal to the maximum accuracy obtained in the original paper by Cuingnet et al.
 
 * **Salvatore et al., 2015** - *my own experience*
+In the same year, my research group published a paper \[[5](#ref)] in which we used the same dataset employed in the paper by Cuingnet et al. [[1](#ref)], but with a difference in the validation process. While the original dataset had been splitted into training and testing set by Cuingnet and colleagues, performing first a leave-one-out on the training set for validation and parameter optimization and using the testing set for performance evaluation, we used a 20-fold nested cross-validation, in which parameter optimization was made in the inner loop of the nested CV and performance evaluation on the outer loop. This did not allow us to perfectly compare the performance of our classifier with results published by Cuingnet, even if a rough estimate could still be made.
+<br> Our classification algorithm reached a balanced accuracy of 76% in classifying AD vs CN, 72% MCIc vs CN and 66% MCIc vs MCInc. Both IDs of patients (from ADNI) and nested-CV splitting are published online, with the aim of allowing future (as unbiased as possible) comparisons.
 
-\[[5](#ref)]
 
 ### Classification performance: state of the art
 
