@@ -48,7 +48,7 @@ Ok, so probably the diagnosis and prediction of conversion to AD is not a big pr
 
 * **Cuingnet et al., 2011**
 
-In 2011, Remi Cuingnet and colleagues \[[1](#ref)] decided to take ten different machine learning methods, which had already been tested for automatic classification on different datasets, and to apply them to the classification of the same dataset of patients. In this way, they were sure to have a common benchmark on which different algorithms could be compared basing on their classification performance. This set of patients was obtained from a public dataset (the Alzheimer's Disease Neuroimaging Initiative, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a>) in order to make results reproducible, and ID of patients were made publicly available. A total of 509 patients was retrieved, including 137 AD, 76 MCIc, 134 MCInc and 162 CN. Structural MRI images (T1-weighted at 1.5T) of these patients were used, and the following binary comparisons were performed: AD vs CN, MCIc vs CN, MCIc vs MCInc.
+In 2011, Remi Cuingnet and colleagues \[[1](#ref1)] decided to take ten different machine learning methods, which had already been tested for automatic classification on different datasets, and to apply them to the classification of the same dataset of patients. In this way, they were sure to have a common benchmark on which different algorithms could be compared basing on their classification performance. This set of patients was obtained from a public dataset (the Alzheimer's Disease Neuroimaging Initiative, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a>) in order to make results reproducible, and ID of patients were made publicly available. A total of 509 patients was retrieved, including 137 AD, 76 MCIc, 134 MCInc and 162 CN. Structural MRI images (T1-weighted at 1.5T) of these patients were used, and the following binary comparisons were performed: AD vs CN, MCIc vs CN, MCIc vs MCInc.
 <br> What turned out to be the classification performance of these methods on a unique dataset?
 <br> Results showed that automatic classification of AD vs CN ranges from a minimum of 70 to a maximum of 88% (balanced accuracy), classification of MCIc vs CN from 60 to 82%, and classification of MCIc vs MCInc from 50 to 68%.
 
@@ -88,7 +88,7 @@ The big gap between performance obtained using individual datasets and performan
 
 ### References
 
-<p name="ref">[1]: Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 56(2), 766-781.</p>
+<p name="ref1">[1]: Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 56(2), 766-781.</p>
 
 \[1]: Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 56(2), 766-781. <br>
 \[2]: Bron, E. et al. (2015). Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge. NeuroImage, 111, 562-579. <br>
