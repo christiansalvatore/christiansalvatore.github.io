@@ -85,9 +85,8 @@ Other examples of this simple principle are present in recent literature. In 201
 
 ### Classification performance: state of the art
 Automatic classification and diagnosis of AD, especially in its early stage (MCI), is not so simple as it may appear from a brief glance at the huge amount of papers published on this topic. Indeed, we saw that we are far away from a definite answer to this problem and that a lot of research must be done in the future if we want to tackle this issue. At this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/) you can find a summary of the state-of-the-art classification performance of AD using public datasets of structural MRIs. In particular, I listed all datasets described in this post ([Cuingnet-509](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/#Cuingnet-509), [Moradi-825](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/#Moradi-825), [Salvatore-509](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/#Salvatore-509) and the [CADDementia dataset](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/#CADDementia-dataset)) and the performance obtained in published papers. Please, feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN2wZIzWESc7N3zJJOQhXni-p9-NTeFaAG_1MJPa6PLd9W4g/viewform" target="_blank">fill in the form</a> or to <a href="mailto:christian.salvatore@ibfm.cnr.it" target="_blank">contact me</a> if the list is not up-to-date or if any data is missing/wrong.
-<br> While I am writing this post, automatic classification of AD (vs CN), as weel as MCIc (vs CN), seems to be possible with around 90% accuracy. On the contrary, prediction of conversion to AD (MCIc vs MCInc) still seems to be below 70%. All this in a simplified binary non-clinical contest.
-<br>
-<br> What will it be in the future?
+<br><br> While I am writing this post, automatic classification of AD (vs CN), as weel as MCIc (vs CN), seems to be possible with around 90% accuracy. On the contrary, prediction of conversion to AD (MCIc vs MCInc) still seems to be below 70%. All this in a simplified binary non-clinical contest.
+<br><br> What will it be in the future?
 
 <p id="ref"></p>
 
