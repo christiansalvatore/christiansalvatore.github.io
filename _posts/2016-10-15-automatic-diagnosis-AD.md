@@ -87,6 +87,7 @@ The big gap between performance obtained using individual datasets and performan
 [link](https://christiansalvatore.github.io/2016-10-15/is-this-alzheimer/)
 
 <p id="ref"></p>
+
 ### References
 
 \[1]: Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 56(2), 766-781. <br>
