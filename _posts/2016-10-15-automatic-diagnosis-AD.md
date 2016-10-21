@@ -58,7 +58,7 @@ A big difference with respect to the performance obtained on individual datasets
 
 * **The CADDementia grand challenge (2015)**
 
-An initiative similar to the previous one (in terms of aims and results) was carried out by Bron and colleagues \[[2](#ref)] a few years later, in 2015. In this case, they set up a challenge, which is much closer to what actually happens in fields like computer vision, where different algorithms are evaluated on big datasets through public competitions. In this particular case, organizers provided structural MRI images (T1-weighted @ 3T) of 384 patients (including 112 AD, 131 MCI and 141 CN) to researches/competitors, who had to classify a (testing) subset and return classification labels, which could in turn be used to evaluate the performance of each individual algorithm. 
+An initiative similar to the previous one (in terms of aims and results) was carried out by Bron and colleagues \[[2](#ref2)] a few years later, in 2015. In this case, they set up a challenge, which is much closer to what actually happens in fields like computer vision, where different algorithms are evaluated on big datasets through public competitions. In this particular case, organizers provided structural MRI images (T1-weighted @ 3T) of 384 patients (including 112 AD, 131 MCI and 141 CN) to researches/competitors, who had to classify a (testing) subset and return classification labels, which could in turn be used to evaluate the performance of each individual algorithm. 
 The aim of the competition was clear:
 
 > In this challenge, we aim to take a step forward to the clinical use of computer-aided diagnosis methods for dementia by performing a large-scale objective validation. To compare the performance of image-based diagnosis methods, all researchers are invited to participate with their algorithms.
@@ -70,17 +70,17 @@ Unlike previously cited cases, this time the evaluation was made for the multi-g
 
 ### Some considerations
 The big gap between performance obtained using individual datasets and performance obtained on public/shared ones can be primarily ascibed to the dataset. Indeed, researchers always tend to choose datasets/subjects that are as *clean* as possible, but this always results in overestimating the performance of a classification algorithm. In other words, we obtain good results (also) because the group of patients that we are trying to discriminate is -*in fact*- easily separable, and we'd probably obtain high performance with much more *primitive* classification algorithms.
-<br> As pointed out in a recent review \[[3](#ref)], in order to avoid this issue, publicly available databases should always be used to evaluate the performance of a classification algorithm on a given pathology. For example, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices providing data of patients with AD.
+<br> As pointed out in a recent review \[[3](#ref3)], in order to avoid this issue, publicly available databases should always be used to evaluate the performance of a classification algorithm on a given pathology. For example, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices providing data of patients with AD.
 
 ### A few other examples
 
 * **Moradi et al., 2014**
 
-\[[4](#ref)]
+\[[4](#ref4)]
 
 * **Salvatore et al., 2015** - *my own experience*
 
-\[[5](#ref)]
+\[[5](#ref5)]
 
 ### Classification performance: state of the art
 
@@ -88,8 +88,7 @@ The big gap between performance obtained using individual datasets and performan
 
 ### References
 <p name="ref1">[1]: Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 56(2), 766-781.</p>
-
-\[2]: Bron, E. et al. (2015). Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge. NeuroImage, 111, 562-579. <br>
-\[3]: Salvatore, C. et al. (2016). Frontiers for the early diagnosis of AD by means of MRI brain imaging and support vector machines. Current Alzheimer Research, 13(5), 509-533. <br>
-\[4]: Moradi, E. et al. (2015). Machine learning framework for early MRI-based Alzheimer's conversion prediction in MCI subjects. NeuroImage, 104, 398-412. <br>
-\[5]: Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 9.
+<p name="ref2">[2]: Bron, E. et al. (2015). Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge. NeuroImage, 111, 562-579.</p>
+<p name="ref3">[3]: Salvatore, C. et al. (2016). Frontiers for the early diagnosis of AD by means of MRI brain imaging and support vector machines. Current Alzheimer Research, 13(5), 509-533.</p>
+<p name="ref4">[4]: Moradi, E. et al. (2015). Machine learning framework for early MRI-based Alzheimer's conversion prediction in MCI subjects. NeuroImage, 104, 398-412.</p>
+<p name="ref5">[5]: Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 9.</p>
