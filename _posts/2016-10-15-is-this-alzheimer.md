@@ -98,7 +98,7 @@ Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer'
 |Result   |Method   |Reference   |Sensitivity   |Specificity   |AUC   |
 |:---|:---|:---|:---|:---|:---|
 |0.68|Voxel-STAND-D-gm|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.57|0.78|-|
-|0.68|LDS+Removing age-related effect|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>|0.64|0.72|0.75|
+|0.68|LDS+Removing age-related effect (slightly different labeling of MCIc/MCInc and follow-up)|<a href="http://www.sciencedirect.com/science/article/pii/S1053811914008131" target="_blank">NeuroImage 2015</a>|0.64|0.72|0.75|
 |0.67|Hippocampal volume + LDA|<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025446" target="_blank">Plos One 2011</a>|0.63|0.70|-|
 |0.66|Voxel-COMPARE-D-all|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.54|0.78|-|
 |0.66|Hippo-Volume-F|<a href="http://www.sciencedirect.com/science/article/pii/S1053811910008578" target="_blank">NeuroImage 2011</a>|0.70|0.61|-|
