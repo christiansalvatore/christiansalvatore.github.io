@@ -186,3 +186,7 @@ This is a multi-center dataset of structural MRI images (T1-weighted @ 3T) of 38
 ```
 Bron, E. et al. (2015). Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge. NeuroImage, 111, 562-579.
 ```
+
+______________________________
+
+Last updated on 2016-10-21.
