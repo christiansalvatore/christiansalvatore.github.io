@@ -48,7 +48,7 @@ Ok, so probably the diagnosis and prediction of conversion to AD is not a big pr
 
 * **Cuingnet et al., 2011**
 
-In 2011, Remi Cuingnet and colleagues \[[1](#ref)\] decided to take ten different machine learning methods, which had already been tested for automatic classification on different datasets, and to apply them to the classification of the same dataset of patients. In this way, they were sure to have a common benchmark on which different algorithms could be compared basing on their classification performance. This set of patients was obtained from a public dataset (the Alzheimer's Disease Neuroimaging Initiative, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a>) in order to make results reproducible, and ID of patients were made publicly available. A total of 509 patients was retrieved, including 137 AD, 76 MCIc, 134 MCInc and 162 CN. Structural MRI images (T1-weighted at 1.5T) of these patients were used, and the following binary comparisons were performed: AD vs CN, MCIc vs CN, MCIc vs MCInc.
+In 2011, Remi Cuingnet and colleagues \[[1](#ref)] decided to take ten different machine learning methods, which had already been tested for automatic classification on different datasets, and to apply them to the classification of the same dataset of patients. In this way, they were sure to have a common benchmark on which different algorithms could be compared basing on their classification performance. This set of patients was obtained from a public dataset (the Alzheimer's Disease Neuroimaging Initiative, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a>) in order to make results reproducible, and ID of patients were made publicly available. A total of 509 patients was retrieved, including 137 AD, 76 MCIc, 134 MCInc and 162 CN. Structural MRI images (T1-weighted at 1.5T) of these patients were used, and the following binary comparisons were performed: AD vs CN, MCIc vs CN, MCIc vs MCInc.
 <br> What turned out to be the classification performance of these methods on a unique dataset?
 <br> Results showed that automatic classification of AD vs CN ranges from a minimum of 70 to a maximum of 88% (balanced accuracy), classification of MCIc vs CN from 60 to 82%, and classification of MCIc vs MCInc from 50 to 68%.
 
@@ -58,7 +58,7 @@ A big difference with respect to the performance obtained on individual datasets
 
 * **The CADDementia grand challenge (2015)**
 
-An initiative similar to the previous one (in terms of aims and results) was carried out by Bron and colleagues \[[2](#ref)\] a few years later, in 2015. In this case, they set up a challenge, which is much closer to what actually happens in fields like computer vision, where different algorithms are evaluated on big datasets through public competitions. In this particular case, organizers provided structural MRI images (T1-weighted @ 3T) of 384 patients (including 112 AD, 131 MCI and 141 CN) to researches/competitors, who had to classify a (testing) subset and return classification labels, which could in turn be used to evaluate the performance of each individual algorithm. 
+An initiative similar to the previous one (in terms of aims and results) was carried out by Bron and colleagues \[[2](#ref)] a few years later, in 2015. In this case, they set up a challenge, which is much closer to what actually happens in fields like computer vision, where different algorithms are evaluated on big datasets through public competitions. In this particular case, organizers provided structural MRI images (T1-weighted @ 3T) of 384 patients (including 112 AD, 131 MCI and 141 CN) to researches/competitors, who had to classify a (testing) subset and return classification labels, which could in turn be used to evaluate the performance of each individual algorithm. 
 The aim of the competition was clear:
 
 > In this challenge, we aim to take a step forward to the clinical use of computer-aided diagnosis methods for dementia by performing a large-scale objective validation. To compare the performance of image-based diagnosis methods, all researchers are invited to participate with their algorithms.
@@ -70,24 +70,26 @@ Unlike previously cited cases, this time the evaluation was made for the multi-g
 
 ### Some considerations
 The big gap between performance obtained using individual datasets and performance obtained on public/shared ones can be primarily ascibed to the dataset. Indeed, researchers always tend to choose datasets/subjects that are as *clean* as possible, but this always results in overestimating the performance of a classification algorithm. In other words, we obtain good results (also) because the group of patients that we are trying to discriminate is -*in fact*- easily separable, and we'd probably obtain high performance with much more *primitive* classification algorithms.
-<br> As pointed out in a recent review \[[3](#ref)\], in order to avoid this issue, publicly available databases should always be used to evaluate the performance of a classification algorithm on a given pathology. For example, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices providing data of patients with AD.
+<br> As pointed out in a recent review \[[3](#ref)], in order to avoid this issue, publicly available databases should always be used to evaluate the performance of a classification algorithm on a given pathology. For example, <a href="http://adni.loni.usc.edu/" target="_blank">ADNI</a> and <a href="http://www.oasis-brains.org/" target="_blank">OASIS</a> are two popular choices providing data of patients with AD.
 
 ### A few other examples
 
 * **Moradi et al., 2014**
 
-\[[4](#ref)\]
+\[[4](#ref)]
 
 * **Salvatore et al., 2015** - *my own experience*
 
-\[[5](#ref)\]
+\[[5](#ref)]
 
 ### Classification performance: state of the art
 
 [link](https://christiansalvatore.github.io/2016-10-15/is-this-alzheimer/)
 
 ### References
-<p name="ref">prova</p>
+
+<p name="ref"> prova </p>
+
 \[1]: Cuingnet, R. et al. (2011). Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 56(2), 766-781. <br>
 \[2]: Bron, E. et al. (2015). Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge. NeuroImage, 111, 562-579. <br>
 \[3]: Salvatore, C. et al. (2016). Frontiers for the early diagnosis of AD by means of MRI brain imaging and support vector machines. Current Alzheimer Research, 13(5), 509-533. <br>
