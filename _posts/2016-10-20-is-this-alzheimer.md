@@ -10,6 +10,8 @@ share: true
 
 This page is intended to be a summary of the state-of-the-art classification performance of AD using public datasets of structural MRIs. Please, feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN2wZIzWESc7N3zJJOQhXni-p9-NTeFaAG_1MJPa6PLd9W4g/viewform" target="_blank">fill in the form</a> or to <a href="mailto:christian.salvatore@ibfm.cnr.it" target="_blank">contact me</a> if the list is not up-to-date or if any data is missing/wrong.
 
+*Note: some of the following papers use a combination of MRI data and clinical/neuropsychological measures. However, since in some cases the same clinical/neuropsychological measures are used for the final (gold-standard) diagnosis, this may introduce a bias in the evaluation of the classification performance. Because of this, we will not consider these results.*
+
 ______________________________
 
 <div id="Cuingnet-509">
