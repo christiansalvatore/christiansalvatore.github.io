@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Machine learning neuroimaging challenge for automated diagnosis of Mild Cognitive Impairment"
+title: "A ML neuroimaging challenge for automated diagnosis of MCI"
 description: ""
 date: 2016-10-21
 tags: [automatic diagnosis, machine learning, artificial intelligence, alzheimer, mild cognitive impairment]
