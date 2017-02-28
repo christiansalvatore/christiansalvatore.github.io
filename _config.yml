@@ -54,6 +54,8 @@ nav:
     url:            "/tags"
   - name:           "Github"
     url:            "https://github.com/christiansalvatore"
+  - name:           "Publications"
+    url:            "/publications"    
 
 
 
