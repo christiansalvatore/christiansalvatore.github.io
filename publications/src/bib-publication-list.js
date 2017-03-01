@@ -91,7 +91,7 @@ var bibtexify = (function($) {
                     itemStr += '  author = { ';
                     for (var index = 0; index < value.length; index++) {
                         if (index > 0) { itemStr += " and "; }
-                        itemStr += value[index].last + value[index].first;
+                        itemStr += value[index].last + value[index].last;
                     }
                     itemStr += ' },\n';
                 } else if (key != 'entryType' && key != 'cite') {
