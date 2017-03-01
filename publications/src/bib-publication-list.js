@@ -63,7 +63,7 @@ var bibtexify = (function($) {
             var authorsStr = '';
             for (var index = 0; index < authorData.length; index++) {
                 if (index > 0) { authorsStr += ", "; }
-                authorsStr += authorData[index].last;
+                authorsStr += authorData[index].last += authorData[index].first;
             }
             return htmlify(authorsStr);
         },
