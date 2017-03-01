@@ -1,4 +1,5 @@
 span.undefined { color:gray; }
+.h1 {width:65%; margin: 0 auto; clear: both; font-family: 'Open Sans', sans-serif;}
 .bibtable {width:65%; margin: 0 auto; clear: both; font-family: 'Open Sans', sans-serif;}
 .bibchart {width: 50%; height: 100px; display: block; margin: 0 auto; margin-bottom: 20px; font-family: 'Open Sans', sans-serif;}
 .clear {clear:both;}
