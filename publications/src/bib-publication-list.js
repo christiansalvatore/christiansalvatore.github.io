@@ -182,10 +182,10 @@ var bibtexify = (function($) {
             'incollection': 50,
             'proceedings': 60,
             'conference': 70,
-            'article': 110,
-            'phdthesis': 90,
             'inbook': 80,
             'book': 100,
+            'phdthesis': 90,            
+            'article': 110,            
             'unpublished': 120
         },
         // labels used for the different types of entries
