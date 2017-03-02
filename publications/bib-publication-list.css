@@ -1,7 +1,7 @@
 span.undefined { color:gray; }
 body {width: 50%; margin: 0 auto; clear: both; font-family: 'Open Sans', sans-serif;}
-.h1 {width: 100%; height: 20px; margin: 0 auto; margin-bottom: 5px; clear: both; font-family: 'Open Sans', sans-serif;}
-.p1 {width: 100%; margin: 0 auto; margin-bottom: 20px; clear: both; font-family: 'Catamaran', sans-serif; font-size: 6;}
+.h1 {width: 100%; margin: 0 auto; clear: both; font-family: 'Open Sans', sans-serif;}
+.p1 {width: 100%; margin: 0 auto; clear: both; font-family: 'Catamaran', sans-serif; font-size: 6;}
 a {text-decoration: none}
 .bibtable {width: 100%; margin: 0 auto; clear: both; font-family: 'Catamaran', sans-serif;}
 .bibchart {width: 70%; height: 100px; display: block; margin: 0 auto; margin-bottom: 20px; font-family: 'Open Sans', sans-serif;}
