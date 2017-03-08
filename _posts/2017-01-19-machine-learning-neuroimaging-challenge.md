@@ -17,7 +17,7 @@ In these months, "<a href="https://inclass.kaggle.com/c/mci-prediction">A Machin
 So, a four-label classification problem.
 
 To date, our team (Salvatore C. | Castiglioni I.) takes the first place in the <a href="https://inclass.kaggle.com/c/mci-prediction/leaderboard">public leaderboard</a>, but the challenge will be open until June, 2017.
-<br>Considering that the accuracy for random guessing is 25%, we are curiouse to see what will be the accuracy reached by the best team.
+Considering that the accuracy for random guessing is 25%, we are curiouse to see what will be the accuracy reached by the best team.
 
 So, stay tuned!
 
