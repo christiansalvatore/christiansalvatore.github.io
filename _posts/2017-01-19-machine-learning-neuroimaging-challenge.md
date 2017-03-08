@@ -17,7 +17,7 @@ In these months, "<a href="https://inclass.kaggle.com/c/mci-prediction" target="
 So, a four-label classification problem.
 
 To date, our team (Salvatore C. | Castiglioni I.) takes the first place in the <a href="https://inclass.kaggle.com/c/mci-prediction/leaderboard" target="_blank">public leaderboard</a>, but the challenge will be open until June, 2017.
-Considering that the accuracy for random guessing is 25%, we are curiouse to see what will be the accuracy reached by the best team.
+Considering that the accuracy for random guessing is 25%, we are curious to see what will be the accuracy reached by the best team.
 
 So, stay tuned!
 
