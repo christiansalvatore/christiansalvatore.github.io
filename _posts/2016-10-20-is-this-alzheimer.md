@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is this Alzheimer?"
+title: "Is it Alzheimer's?"
 description: "State of the art in the automatic diagnosis of AD using public datasets of sMRI"
 date: 2016-10-20
 tags: [automatic diagnosis, machine learning, artificial intelligence, alzheimer, mild cognitive impairment, public datasets, magnetic resonance imaging]
