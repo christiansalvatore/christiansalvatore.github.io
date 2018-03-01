@@ -10,7 +10,7 @@ name:               "christiansalvatore"
 author:
   name:             Christian Salvatore
   #facebook:         your-id
-  #twitter:          your-id
+  twitter:          cd_salvatore
   github:           christiansalvatore
   #linkedin:         your-id
   #medium:           your-id
@@ -56,6 +56,8 @@ nav:
     url:            "https://github.com/christiansalvatore"
   - name:           "Publications"
     url:            "/publications/publications-bibbase.html"    
+  - name:           "Dissemination"
+    url:            "/dissemination/dissemination.html"        
 
 
 
