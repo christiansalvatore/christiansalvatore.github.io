@@ -1,1 +1,1 @@
-My [blog](christiansalvatore.github.io).
+[My blog](christiansalvatore.github.io).
