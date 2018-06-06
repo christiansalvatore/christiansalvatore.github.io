@@ -58,8 +58,6 @@ nav:
     url:            "/publications/publications-bibbase.html"    
   - name:           "Awards"
     url:            "/awards/awards.html"        
-  - name:           "Invited talks"
-    url:            "/invited-talks/invited-talks.html"            
   - name:           "Dissemination"
     url:            "/dissemination/dissemination.html"        
 
