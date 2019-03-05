@@ -58,8 +58,8 @@ nav:
     url:            "/publications/publications-bibbase.html"    
   - name:           "Awards"
     url:            "/awards/awards.html"        
-  - name:           "Dissemination"
-    url:            "/dissemination/dissemination.html"        
+#  - name:           "Dissemination"
+#    url:            "/dissemination/dissemination.html"        
 
 
 
